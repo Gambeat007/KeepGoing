@@ -1,4 +1,4 @@
-package others.run_length;
+package algorithms;
 
 public class RunLengthEncoding {
     private static final StringBuilder stringBuilder = new StringBuilder();
